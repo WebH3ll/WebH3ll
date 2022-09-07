@@ -1,7 +1,9 @@
 # 🔥 WebHell 🔥
 중앙대학교 보안동아리 CAUTION 여름방학 웹 해킹 스터디 [2022.07.01 ~ 08.30]
 
-노션 - https://myoungseok.notion.site/Web-Hacking-WebH3ll-48a96a349fec4ddebb4cb01efc1a44cd
+Notion - https://myoungseok.notion.site/Web-Hacking-WebH3ll-48a96a349fec4ddebb4cb01efc1a44cd
+
+Github - https://github.com/WebH3ll/
 
 ## 🐳 스터디 목적 
 
